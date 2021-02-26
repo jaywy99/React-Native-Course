@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 # Creating the Initial React App
 
 This first section is part of the ESIB course, it explains how to create your initial react app with Yarn.
